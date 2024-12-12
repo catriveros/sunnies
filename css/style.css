@@ -823,6 +823,7 @@ section {
 .fresh {
     text-align: center;
 
+
 }
 
 .fresh p {
@@ -842,9 +843,14 @@ section {
 .aboutchef {
     text-align: left;
 
+
     p {
         text-wrap: pretty;
         text-align: left;
+
+        padding: 10px;
+        padding-top: 10px;
+
     }
 
     h1 {
@@ -855,7 +861,24 @@ section {
 
     }
 
+    .green-line {
+        border: 1px solid rgb(0, 255, 123);
+        padding-left: 20px;
+        padding-right: 10px;
+        padding-top: 20px;
+        min-height: 40svh;
+
+    }
+
+    h2 {
+        font-size: 28px;
+
+    }
+
+
 }
+
+
 
 
 .customgrid1 {
@@ -914,6 +937,8 @@ section {
     grid-template-columns: 16.6% 16.6% 16.6% 16.6% 16.6% 16.6%;
     grid-template-rows: 16.6% 16.6% 16.6% 16.6% 16.6% 16.6%;
     min-height: 70svh;
+    margin-top: -200px;
+
 
     .img1 {
         /* background: rgb(218, 216, 216); */
