@@ -1018,16 +1018,49 @@ section {
 
 /* VISIT */
 
+.visit {
 
-.women {
 
-    justify-content: center;
-    align-items: center;
-    width: 1000px;
-    padding: 100px;
+    p {
+        text-align: left;
+        font-family: raleway;
+        font-size: 16px;
+        font-weight: light;
+
+
+
+    }
+
+    h1 {
+
+        text-align: right;
+    }
+
+
 
 }
 
+
+
+
+
+
+
+
+
+
+
+
+.women {
+
+
+    padding: 0;
+
+
+
+
+
+}
 
 * SWIPER STYLING */ .swiper {
 
