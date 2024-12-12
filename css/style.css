@@ -859,21 +859,24 @@ section {
 
 
 .aboutchef {
-    text-align: left;
+
+
+
+
+
 
 
     p {
-        text-wrap: pretty;
+
         text-align: left;
 
-        padding: 10px;
-        padding-top: 10px;
 
     }
 
     h1 {
         text-align: left;
         text-transform: uppercase;
+
 
 
 
